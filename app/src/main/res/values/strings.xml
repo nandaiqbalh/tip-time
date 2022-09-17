@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Tip Time</string>
+    <string name="app_name">ChapterDua</string>
+    <string name="time_tip">Time Tip</string>
+    <string name="title_cost_of_service">Cost of service</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="title_how_was_the_service">How was the service?</string>
+    <string name="how_much_the_cost_of_the_service">How much the cost of the service?</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="ok_15">OK (15%)</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="tip_amount">Tip Amount</string>
 </resources>
